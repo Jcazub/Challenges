@@ -1,0 +1,12 @@
+Starting from the back, record what is the highest number presented
+
+Starting from the back, if the next num is equal to the current num, add to current count
+If current count is greater than the max count, replace max count
+
+If next num != current num, reset current count and add next num to current count
+Return max count
+
+For larger and unsorted inputs:
+
+
+
